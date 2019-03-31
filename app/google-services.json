@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "656104025850",
+    "firebase_url": "https://meetingtest-e1274.firebaseio.com",
+    "project_id": "meetingtest-e1274",
+    "storage_bucket": "meetingtest-e1274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656104025850:android:7738fe742be9f442",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656104025850-vlvlv891kadu216mrhhtimjresrp2djh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "f363dd4f71ef4ce6d3acb2473f40f3edb59aaeb6"
+          }
+        },
+        {
+          "client_id": "656104025850-ts2svee1osaoof08ghkus6fi7f61rmao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVIB4iudgyldcqTpqY5GmGV-qVAlcE1aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656104025850-ts2svee1osaoof08ghkus6fi7f61rmao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656104025850:android:7e0059fb27f6b610",
+        "android_client_info": {
+          "package_name": "com.example.meeting_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656104025850-ts2svee1osaoof08ghkus6fi7f61rmao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVIB4iudgyldcqTpqY5GmGV-qVAlcE1aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656104025850:android:490d8690c1a7e01a",
+        "android_client_info": {
+          "package_name": "com.pulinshah.meeting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656104025850-dgch9n43rrhu2f4lpqj2c3sreduj5sse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pulinshah.meeting",
+            "certificate_hash": "f363dd4f71ef4ce6d3acb2473f40f3edb59aaeb6"
+          }
+        },
+        {
+          "client_id": "656104025850-ts2svee1osaoof08ghkus6fi7f61rmao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVIB4iudgyldcqTpqY5GmGV-qVAlcE1aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656104025850-ts2svee1osaoof08ghkus6fi7f61rmao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
