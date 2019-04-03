@@ -27,7 +27,7 @@ import java.util.Map;
 
 public class MeetingMain extends AppCompatActivity {
 
-
+    // ![](giphy2.gif)     ![](giphy1.gif)
     private TextView txtSpeechInput;
     private ImageButton btnSpeak;
     private final int REQ_CODE_SPEECH_INPUT = 100;
@@ -37,7 +37,7 @@ public class MeetingMain extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_meeting_main);
+        setContentView(R.layout.activity_meeting_main1);
 
         txtSpeechInput = (TextView) findViewById(R.id.txtSpeechInput);
         btnSpeak = (ImageButton) findViewById(R.id.btnSpeak);
