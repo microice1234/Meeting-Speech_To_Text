@@ -44,7 +44,7 @@ public class Login extends AppCompatActivity {
                 authenticate(name2, meeting_id2);
 
                 try {
-                    Thread.sleep(5000);
+                    Thread.sleep(10000);
                 }
                 catch(Exception e) { }
 
@@ -91,6 +91,8 @@ public class Login extends AppCompatActivity {
                         MeetingDetails.user_keys.add(key2);
 
                         MeetingDetails.logged_in = true;
+
+                        Toast.makeText(Login.this, "LOGGED IN", Toast.LENGTH_LONG).show();
 
                         break;
 

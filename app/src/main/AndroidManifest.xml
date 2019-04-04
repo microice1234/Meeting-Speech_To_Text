@@ -28,6 +28,10 @@
             android:name="com.example.meeting_test.MeetingMain"
             android:theme="@style/AppTheme" />
 
+        <activity
+            android:name="com.example.meeting_test.Testing"
+            android:theme="@style/AppTheme" />
+
     </application>
 
 </manifest>
