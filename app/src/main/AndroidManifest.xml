@@ -25,11 +25,11 @@
             android:theme="@style/AppTheme" />
 
         <activity
-            android:name="com.example.meeting_test.MeetingMain"
-            android:theme="@style/AppTheme" />
+        android:name="com.example.meeting_test.MeetingMain"
+        android:theme="@style/AppTheme" />
 
         <activity
-            android:name="com.example.meeting_test.Testing"
+            android:name="com.example.meeting_test.Transcript"
             android:theme="@style/AppTheme" />
 
     </application>

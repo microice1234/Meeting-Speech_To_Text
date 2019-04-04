@@ -42,12 +42,23 @@ public class MeetingMain extends AppCompatActivity {
         txtSpeechInput = (TextView) findViewById(R.id.txtSpeechInput);
         btnSpeak = (ImageButton) findViewById(R.id.btnSpeak);
 
+        Button view_trans = findViewById(R.id.view_transcript);
+
         final Button btnend = findViewById(R.id.end);
 
         btnend.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent2 = new Intent(MeetingMain.this, MainActivity.class);
+                MeetingMain.this.startActivity(intent2);
+                MeetingMain.this.finish();
+            }
+        });
+
+        view_trans.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent2 = new Intent(MeetingMain.this, Transcript.class);
                 MeetingMain.this.startActivity(intent2);
                 MeetingMain.this.finish();
             }
